@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,3 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # prasan amazon clone
 amazon clone app
+=======
+#amazon-clone
+I created Amazon clone app
+>>>>>>> f5b49d01f6db591519293e196477f4d034a2cdde
