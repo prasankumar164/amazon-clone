@@ -1,0 +1,26 @@
+.product__rating{
+    color: rgb(255, 136, 0);
+    display: flex;
+}
+
+.product__info p{
+   font-size: 14px;
+   margin: 0;
+   padding: 0;
+}
+
+.product__button .btn{
+   background-color: #f0c14b;
+   border: 1px solid;
+   border-color: #a88734 #9c7e31 #846a29;
+}
+
+.product__image .p__image{
+    max-width: 400px;
+    min-width: 100px;
+}
+
+.product__info{
+    background: #fff;
+    padding: 20px;
+}

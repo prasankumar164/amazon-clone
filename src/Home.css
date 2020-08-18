@@ -1,0 +1,15 @@
+.home__img{
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    z-index: -1;
+    margin-bottom: -150px;
+}
+
+@media only screen and (max-width: 800px) {
+    .home__img{
+        margin-bottom: -60px;
+    }
+}
+
+.home__background{
+    background-color: rgb(32, 90, 218);
+}

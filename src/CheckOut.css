@@ -1,0 +1,12 @@
+.checkout{
+    background-color: #fff;
+}
+
+.checkout__heading {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.checkout__container{
+    margin-left: 20px;
+}
